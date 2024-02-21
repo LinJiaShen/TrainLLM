@@ -1,4 +1,4 @@
-# TrainLLM
+# TrainLLM (ONGOING PROJECT)
 training my own LLM models from learning to practicing
 
 
@@ -6,3 +6,6 @@ training my own LLM models from learning to practicing
 https://learn.deeplearning.ai/
 2. start training an LLM
 https://zhuanlan.zhihu.com/p/636270877
+
+
+
