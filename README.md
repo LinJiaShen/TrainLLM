@@ -14,27 +14,22 @@
 ---
 
 ## 📚 內容規劃
-1. **LLM 基礎介紹**
-   - Transformer 架構
-   - Self-Attention 機制
-   - 主要 LLM 模型（GPT, BERT, T5）
-  
-2. **從頭訓練 LLM**
+1. **從頭訓練 LLM**
    - 使用 Hugging Face 及 PyTorch 訓練 LLM
    - 構建數據集並進行預處理
    - 設計與訓練自己的 Transformer 模型
 
-3. **Fine-tuning**
+2. **Fine-tuning**
    - 微調現有的 LLM，如 LLaMA、GPT-3.5、Mistral
    - 使用 LoRA、Adapter 等技術提升效率
    - 在特定領域應用（如醫療、金融等）
 
-4. **RAG（檢索增強生成）**
+3. **RAG（檢索增強生成）**
    - 結合 LLM 與向量資料庫（如 FAISS、Chroma）
    - 建立一個基於 RAG 的問答系統
    - 應對知識更新、提升回應準確性
 
-5. **Prompt Engineering 與安全性**
+4. **Prompt Engineering 與安全性**
    - 如何設計 Prompt 以提升 LLM 的回應質量
    - Prompt Injection Attack 原理與防禦策略
    - 限制 LLM 輸出有害內容的技術（如 RLHF）
